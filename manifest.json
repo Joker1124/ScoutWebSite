@@ -1,0 +1,25 @@
+{
+  "name": "ScoutApp",
+  "theme_color": "rgb(0, 0, 255)",
+  "background_color": "rgb(255, 255, 255)",
+  "short_name": "ScoutApp",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://scouts-wepsit.netlify.app/",
+  "lang": "ar",
+  "dir": "rtl",
+  
+"icons": [
+  {
+    "src": "/assets/icon-192-UXm4-lPr.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "/assets/icon-512-CaBSVV5r.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+]
+
+}
